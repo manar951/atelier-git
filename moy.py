@@ -9,4 +9,4 @@ if moyenne >= 10:
      print("Admis")
 else :
     print ("Non admis")
- 
+print (" hello manar !")
